@@ -1,0 +1,68 @@
+
+  Responda de completa e detalhada essas perguntas, para o ebook como nome "7 dietas fáceis e práticas para perder até 20% de peso em 1 mês"
+  Qual é o público-alvo do Ebook? 
+  Poderia descrever seus interesses, necessidades e desafios? 
+  Qual é o principal objetivo deste Ebook? Informar, educar, promover um produto ou serviço, ou outro? 
+  Há algum tópico específico ou seção que deve ser incluído no Ebook? 
+  Existem exemplos de Ebooks ou outros materiais que você considera um bom modelo para o nosso projeto? 
+  Qual é a identidade visual desejada para o Ebook (cores, tipografia, estilo de imagens)?
+  
+  —-----------------------------------
+  
+  Estou produzindo um ebook e construí este planejamento para ele. Estude todo o conteúdo presente no <planejamento></planejamento>, para depois produzir por partes ele por completo.
+  
+  Primeiro, gere um breve resumo de 4 linhas de tudo o que você entendeu do planejamento e depois me confirme que todo contexto já foi avaliado. 
+  
+  <planejamento>
+  {{ conteudo aqui dentro }}
+  </planejamento>
+  
+  —
+  
+  <instruções>
+  Os textos devem ser claros, utilizando-se de uma linguagem rica em exemplos que facilitam a compreensão dos clientes. Gere sempre conteúdos extensos para que o ebook fique no final das solicitações robusto e rico em informações.
+  </instruções> 
+  
+  
+  
+  —
+  
+  
+  1️⃣ Tema Central do Ebook:
+  O Ebook será sobre dietas rápidas e saudáveis, ensinando como perder peso de forma eficaz sem comprometer a saúde. Ele incluirá estratégias práticas, receitas fáceis e sugestões de planos alimentares para resultados rápidos e sustentáveis.
+  
+  2️⃣ Público-Alvo:
+  O material será voltado para pessoas que querem emagrecer de forma prática e saudável, incluindo:
+  Profissionais ocupados que não têm tempo para preparar refeições elaboradas.
+  Pais e mães que precisam de opções rápidas e nutritivas.
+  Jovens que querem melhorar a alimentação sem dietas restritivas.
+  Pessoas que buscam um estilo de vida mais equilibrado sem abrir mão do sabor.
+  
+  3️⃣ Objetivo do Ebook:
+  O principal objetivo do Ebook é gerar leads e criar autoridade no nicho de alimentação saudável. Ele poderá ser usado para:
+  Capturar e-mails ou contatos para uma lista de leads.
+  Educar o público sobre alimentação saudável e rápida.
+  Converter leitores em compradores de um curso, programa de emagrecimento ou assinatura de receitas saudáveis.
+  Posicionar o autor como especialista no tema.
+  
+  4️⃣ Material de Referência:
+  O Ebook seguirá um estilo direto, didático e visualmente atrativo, semelhante a Ebooks populares de nutrição e emagrecimento. Ele incluirá:
+  Estrutura clara e organizada.
+  Ilustrações e imagens para engajamento.
+  Tabelas e listas práticas de alimentos e receitas.
+  Se houver algum Ebook específico como referência, ele pode ser adaptado.
+  
+  5️⃣ Tom e Estilo:
+  O Ebook terá um tom acessível e prático, sem termos técnicos complicados. O conteúdo será direto ao ponto, mas explicativo o suficiente para que o leitor entenda a lógica das dietas. O estilo será leve, motivador e com dicas aplicáveis.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
